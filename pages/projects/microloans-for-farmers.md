@@ -1,10 +1,10 @@
 ---
 layout: project
-title: Microloans for Farmers
+title: Microloans for Astronauts
 permalink: /projects/microloans-for-farmers/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
-image-credit: https://www.flickr.com/photos/usdagov
+image-credit: 'https://www.flickr.com/photos/usdagov'
 abstract: /assets/files/microloans-for-farmers.pdf
 ---
 ## What is the issue?
@@ -20,4 +20,5 @@ In order to provide credit to a broad array of agricultural entrepreneurs, espec
 A new outreach letter was mailed to randomly selected zip codes. It provided information on the benefits of the microloan program, a shortened URL for accessing more information online, and customized contact information directing each farmer to the loan officer in his or her home county.  A broad sampling of farmers received the letter, including individuals who had not previously participated in USDA programs or been a customer of FSA.
 
 ## What was the impact?
+
 The letters more than doubled the amount of microloan-related activity in FSA county offices, introducing the microloan program widely to farmers who might benefit.  The letter also influenced the number of successful applicants, increasing the percentage from approximately 0.09 percent to 0.11 percent.
